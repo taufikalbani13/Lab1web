@@ -34,7 +34,7 @@ ctrl + s untuk menyimpan perubahan,lalu refersh pada web browser
    <h1>Belajar dasar html</h1>
  ```
 ```py
-## <!--judul paragraf kedua-->
+<!--judul paragraf kedua-->
    <h1>paragraf pada html</h1>
  ```
 ctrl + s untuk menyimpan perubahan,lalu refersh pada web browser
