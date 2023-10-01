@@ -18,8 +18,8 @@
 
 4. Membuat paragraf
 
-# <p align="left">kami sedang Belajar <mark>Html</mark> dasar, pada matkul <b>pemograman web</b> di prodi <i>teknik informatika</i> <u>universitas pelita bangsa</u>. pelajaran pertama yang kami dapat adalah membuat tampilan web sedrhana dalam rangka mengenal tag-tag dasar HTML.</p>
-# <p align="left">ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang  saling mendukung sehingga menjadi satu kesatuan . paragraf di buat dengan menggunakan tag dasar html.
+## <p align="left">kami sedang Belajar <mark>Html</mark> dasar, pada matkul <b>pemograman web</b> di prodi <i>teknik informatika</i> <u>universitas pelita bangsa</u>. pelajaran pertama yang kami dapat adalah membuat tampilan web sedrhana dalam rangka mengenal tag-tag dasar HTML.</p>
+## <p align="left">ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang  saling mendukung sehingga menjadi satu kesatuan . paragraf di buat dengan menggunakan tag dasar html.
 
 ctrl + s untuk menyimpan perubahan,lalu refersh pada web browser
 
@@ -27,10 +27,10 @@ ctrl + s untuk menyimpan perubahan,lalu refersh pada web browser
 
 5. Membuat judul
 
-# <!-- judul paragraf pertama-->
+## <!-- judul paragraf pertama-->
    <h1>Belajar dasar html</h1>
    
-# <!--judul paragraf kedua-->
+## <!--judul paragraf kedua-->
    <h1>paragraf pada html</h1>
 
 ctrl + s untuk menyimpan perubahan,lalu refersh pada web browser
@@ -38,6 +38,7 @@ ctrl + s untuk menyimpan perubahan,lalu refersh pada web browser
 ![Screenshot (11)](https://github.com/taufikalbani13/lab2py/assets/115517181/6859159c-b4be-41ab-b7f0-6f234e69483e)
 
 6. Memformat teks
+   
    Gunakan tag <mark> untuk mewarnai teks
    Gunakan tag <b> untuk menebalkan teks
    Gunakan tag <i> untuk teks miring
@@ -48,16 +49,17 @@ ctrl + s untuk menyimpan perubahan,lalu refersh pada web browser
 ![Screenshot (14)](https://github.com/taufikalbani13/lab2py/assets/115517181/9b8f18f4-689d-4f68-8f84-54f8052193fe)
 
 7. Menyisipkan gambar
+   
    Siapkan gambar yang ingin di sisipkan lalu simpan gambar pada folder yang sama pada file dokumen HTML
 
 ![Screenshot (15)](https://github.com/taufikalbani13/lab2py/assets/115517181/9e0056b1-a00b-4c95-a7ff-5be18388bff6)
 
    Lalu tambahkan tag img dengan menambahkan heading 3
 
- # <!--menambahkan gambar pada dokumen-->
+ ## <!--menambahkan gambar pada dokumen-->
    <h3> menambahkan gambar </h3>
 
-# <img src="LOGO_UPB_NEW-1.png" title="logo upb" width="200">
+## <img src="LOGO_UPB_NEW-1.png" title="logo upb" width="200">
 
    ctrl + s untuk menyimpan perubahan,lalu refersh pada web browser
 
@@ -66,14 +68,14 @@ ctrl + s untuk menyimpan perubahan,lalu refersh pada web browser
 8. Menambahkan hyperlink
    Tambahkan hyperlink sebelum heading 1
 
-   # <!--menambahkan hyperlink-->
+   ## <!--menambahkan hyperlink-->
    <nav>
       
-   # <a href="lab1_tag_dasar.html">Dasar HTML</a>
+   ## <a href="lab1_tag_dasar.html">Dasar HTML</a>
       
-   # <a href="lab1_halaman2.html">Hlaman2</a>
+   ## <a href="lab1_halaman2.html">Hlaman2</a>
       
-   # <a herf="http://www.google.com">Halaman Web Eksternal Google</a>
+   ## <a herf="http://www.google.com">Halaman Web Eksternal Google</a>
    </nav>
    <hr>
 
